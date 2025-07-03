@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+Link Data CSV
+https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database/input
